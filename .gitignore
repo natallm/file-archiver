@@ -1,3 +1,6 @@
 files-to-archive
 .vscode
 archive.nbz
+build
+dist
+extracted
