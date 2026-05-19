@@ -1,2 +1,2 @@
 # nalmb's file archiver
-random file archiver thing
+A file archiver that I made during my free time!
